@@ -1,4 +1,4 @@
 # ML_Algorithms
-Linear regression
-Logistic regression
-Clustering
+Linear regression;
+Logistic regression;
+Clustering;
